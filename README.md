@@ -1,0 +1,2 @@
+# nitricboostultra
+Static site
